@@ -432,6 +432,7 @@ section {
   overflow: clip;
   overflow-x: ;
   overflow-y: ;
+  aspect-ratio: auto 100/100;
 }
 
 
