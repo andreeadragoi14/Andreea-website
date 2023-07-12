@@ -426,7 +426,9 @@ section {
   background: none;
   border-radius: 0;
 }
-
+.qodef-swiper-container .swiper-slide img {
+    width: 100%;
+}
 .skills img {
    overflow-clip-margin: content-box;
   overflow: clip;
